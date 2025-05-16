@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Upendra Vamsi Nallajarla
 
-💼 **Infrastructure Specialist** | 🛠️ **Expert in IT Operations & System Maintenance**  
+💼 **Infrastructure Specialist** working as **Infrastructure Lead** |  🛠️ **Expert in IT Operations & System Maintenance**  
 🌐 Passionate about ensuring reliable, secure, and scalable IT infrastructure.
 
 ---
